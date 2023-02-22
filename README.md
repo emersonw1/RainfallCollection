@@ -1,6 +1,6 @@
 <h1>Rainfall Collection and Household Water Usage</h1>
 GitHub Repository: https://github.com/emersonw1/RainfallCollection<br>
-Team members: Emerson Wachelka
+Team members: Emerson Wachelka, Sam Gartrell
 
 <h2>Summary and Objectives</h2>
 <p>The purpose of the project is to assess Arizona households' potential for living off of rainwater captured by their roofs.</p> 
