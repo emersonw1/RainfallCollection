@@ -13,14 +13,27 @@ https://github.com/microsoft/USBuildingFootprints<br><br>
 Raster of precipitation for each month in Arizona over the past decade<br>
 https://climate.copernicus.eu/climate-reanalysis
 
-<h2>Python Packages</h2>
-jupyter<br>
-matplotlib<br>
-geopandas<br>
-pandas<br>
-numpy<br>
-xarray<br>
-rasterio
+## Python Packages
+- jupyter
+- matplotlib
+- geopandas
+- pandas
+- numpy
+- xarray
+- rasterio
+
+## Setting up
+Clone this repository:
+```
+git clone https://github.com/emersonw1/RainfallCollection
+cd RainfallCollection
+```
+
+Clone and set up the conda environment
+```
+conda env create -n rainfall --file environment.yml
+conda activate rainfall
+```
 
 <h2>Planned Methods/Approach</h2>
 <p>Firstly, we would need to define a threshold of area to separate houses from commercial buildings since we are looking at household water usage.</p>
