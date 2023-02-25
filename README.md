@@ -41,7 +41,7 @@ conda activate rainfall
 <p>The next step would be to intersect the precipitation data with the house footprints so that each house could have an associated amount of annual precipitation that lands on top of it.</p>
 
 <h2>Expected Outcomes</h2>
-
+<p>We should be able to find out how many households in Arizona would be able to meet their water needs given that they capture all of the rainfall landing on their roof. We should also be able to tell, for the households that don't meet their needs, how close they are getting. For example: how many households are meeting 90% of their requirements, how many are meeting 80%, etc. We could also map the locations of houses meeting their water supply needs vs those that are not, as well as look at how this changes month-to-month.</p>
 
 <h2>Relavent Information</h2>
 Arizona residents use more water than those of most other states at 146 gallons per day in 2015 compared to the US average of 83 (University of Arizona). This translates to 10,950 gallons per month for the average household of 2.5 (Duffin).
