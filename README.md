@@ -8,8 +8,8 @@ Team members: Emerson Wachelka, Sam Gartrell
 <p>How many households in Arizona would have been able to live solely off of rainfall over the past decade? The answer here is likely extremely low. However, precipitation varies across months, so perhaps there are certain times of the year when households would be able to meet their water requirements for that month.</p>
 
 <h2>Datasets</h2>
-Shapefile of building footprints in Arizona<br>
-https://github.com/microsoft/USBuildingFootprints<br><br>
+Shapefile of building footprints in Arizona (Download Link) - The geojson file must be in your python environment folder.<br>
+https://usbuildingdata.blob.core.windows.net/usbuildings-v2/Arizona.geojson.zip<br><br>
 Raster of precipitation for each month in Arizona over the past decade<br>
 https://climate.copernicus.eu/climate-reanalysis
 
@@ -49,4 +49,7 @@ Arizona residents use more water than those of most other states at 146 gallons 
 <h2>References</h2>
 Duffin, E., &amp; 12, D. (2022, December 12). Average size of households in the U.S. 2022. Statista. Retrieved February 16, 2023, from https://www.statista.com/statistics/183648/average-size-of-households-in-the-us/#:~:text=The%20average%20American%20household%20consisted%20of%202.5%20people%20in%202022.<br><br>
 
-University of Arizona. (n.d.). Residential water use. MAP AZ Dashboard. Retrieved February 16, 2023, from https://mapazdashboard.arizona.edu/infrastructure/residential-water-use<br><br> 
+University of Arizona. (n.d.). Residential water use. MAP AZ Dashboard. Retrieved February 16, 2023, from https://mapazdashboard.arizona.edu/infrastructure/residential-water-use<br>
+
+The building footprint shapefile comes from this page:<br>
+https://github.com/microsoft/USBuildingFootprints
