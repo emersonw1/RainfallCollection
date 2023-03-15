@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# data
+Arizona.geojson
+*.geojson.zip
+
 # C extensions
 *.so
 

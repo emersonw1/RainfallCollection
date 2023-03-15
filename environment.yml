@@ -1,4 +1,4 @@
-name: .gsd
+name: Rainfall
 channels:
   - plotly
   - conda-forge
