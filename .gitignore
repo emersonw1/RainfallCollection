@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # data
-*.geojson
+Arizona.geojson
 *.geojson.zip
 
 # C extensions
