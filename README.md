@@ -9,9 +9,11 @@ Team members: Emerson Wachelka, Sam Gartrell
 
 <h2>Datasets</h2>
 Shapefile of building footprints in Arizona (Download Link) - The geojson file must be in your python environment folder.<br>
-https://usbuildingdata.blob.core.windows.net/usbuildings-v2/Arizona.geojson.zip<br><br>
+[microsoft buildings by state](https://usbuildingdata.blob.core.windows.net/usbuildings-v2/Arizona.geojson.zip)<br><br>
 Raster of precipitation for each month in Arizona over the past decade<br>
-https://climate.copernicus.eu/climate-reanalysis
+[precipitation reanalysis (cpopernicus)](https://climate.copernicus.eu/climate-reanalysis)
+Arizona Cities:
+[this esri rest endpoint from azgeo.gov](https://azgeo.az.gov/arcgis/rest/services/asld/ASLD_AdminBoundaries/MapServer/1)
 
 ## Python Packages
 - jupyter
