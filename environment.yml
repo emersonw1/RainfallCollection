@@ -1,4 +1,4 @@
-name: Rainfall
+name: rainfall
 channels:
   - plotly
   - conda-forge
