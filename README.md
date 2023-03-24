@@ -23,6 +23,8 @@ Arizona Cities:
 - numpy
 - xarray
 - rasterio
+- requests
+- rioxarray
 
 ## Setting up
 Clone this repository:
